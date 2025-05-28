@@ -1,3 +1,5 @@
+// See https://github.com/gyscos/cursive/discussions/820.
+
 use cursive::direction::{Direction, Orientation};
 use cursive::view::{Nameable, Resizable};
 use cursive::views::{EditView, LinearLayout, TextView};
